@@ -1,0 +1,22 @@
+*{padding: 0px;
+margin: 0px;}
+.navigation{background-color: rgba(8, 8, 8, 0.827);color: antiquewhite;padding: 20px;}
+div{display: flex;margin-left: 100px;font-size: 20px;}
+#list{list-style: none;margin-left: 50px;}
+#dog{margin-left: 800px;list-style: none;}
+span{margin-left: 20px;color: rgb(135, 133, 131);font-size: 20px;}
+p{margin-left: 100px; margin-top: 40px;}
+table{margin-left: 150px; margin-top: 10px;}
+h1{  margin-top: 40px; color: rgb(51, 148, 223);}
+ td{padding: 40px;}
+ .SUJAL{margin-left: 630PX;}
+ BUTTON{font-size: 18PX; padding: 8px;}
+ #bat{display: flex; list-style: none;}
+ #bat{margin-left: 0%;background-color: aqua;;}
+ .rat{margin-left: 0%;}
+ #done{color: rgb(13, 141, 238);text-align: center;margin-top: 50px;}
+ #mat{margin-left: 100px color black}
+ H3{ color: rgb(67, 58, 143); text-decoration-line: underline;
+    text-decoration-color: rgb(23, 223, 27);
+    text-decoration-style: wavy;margin-top: 100px;}
+    img{height: 200px;width: 400px;border-radius: 30px;}
